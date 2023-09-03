@@ -59,7 +59,6 @@ all_posts = [
         pages with templates, all the way up to making database access and data management easy. It's all baked in and 
         This course teaches Django from the ground up - you don't need to know anything about it to get started. 
         Basic Python and web development knowledge is all you need.
-        You can learn more in {{""}}
         """
     },
      {
